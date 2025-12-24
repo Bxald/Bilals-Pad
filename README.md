@@ -24,6 +24,8 @@ The model is really simple, just using the simple guide. Top and bottom part hel
 
 It has 2 separate printed parts, a bottom base that holds the pcb and everything on top while the top plate hides it all.
 <img width="1280" height="516" alt="Final HackPad (Fully Assembled)2" src="https://github.com/user-attachments/assets/00e491bd-b7ca-440e-9935-fafb1da5a165" />
+<img width="1280" height="516" alt="case top and bottom" src="https://github.com/user-attachments/assets/a2e09120-839a-42f8-8352-630e1b835fec" />
+<img width="1280" height="516" alt="case bottom and top v2" src="https://github.com/user-attachments/assets/43e34829-5deb-4e14-bfe8-16ca64930439" />
 
  
 Made in Fusion360 (using it for the first time btw :\>). I noticed it right now that I didn’t add the 3D model of XIAO RP 2040 (I wonder if it even exists)   
